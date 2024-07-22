@@ -1,0 +1,15 @@
+:root{
+    --bg-primary:rgb(153, 153, 153);
+    --text-primary:rgb(0, 0, 0); 
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.content{
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--bg-primary);
+}
